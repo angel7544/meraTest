@@ -29,8 +29,9 @@ const Home = () => {
             <Typed    className="bg-gradient-to-r pl-3 from-green-300 via-blue-500 to-purple-600 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl" strings={["Here you can find anything","Website Developement","Ai-Machine Learning","Android-App Developement","Ethical-Hacking"]} backSpeed={50} loop={true} typeSpeed={80} />
 
             <p className="mx-auto mt-4 max-w-xl sm:text-xl/relaxed">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt
-              illo tenetur fuga ducimus numquam ea!
+            Step into a realm where creativity meets craftsmanship, and dreams are assembled pixel by pixel.
+            Welcome to our sanctuary of PC building.
+            Explore, design, and ignite your passion for the extraordinary. Welcome to a journey where your imagination becomes reality.
             </p>
 
             <div className="mt-8 flex flex-wrap justify-center gap-4">
