@@ -10,18 +10,18 @@ const Nav = () => {
 
   return (
     <div className="flex z-50 fixed w-full justify-between  items-center h-20  mx-auto px-4 text-white" style={{backgroundColor:"#002D62"}}>
-      <h1 className="w-full text-3xl font-bold text-[white]">TechAshu.</h1>
+      <h1 className="w-full text-3xl font-bold text-[white]">AJK PCs.</h1>
       <ul className="hidden top-24 md:flex">
         <Link to={'/'}>
           <li className="p-4 hover:text-deep-orange-400 ">HOME</li>
         </Link>
 
         <Link  to={'/product'}>
-          <li className="p-4 hover:text-deep-orange-400 ">RPODUCTS</li>
+          <li className="p-4 hover:text-deep-orange-400 ">PRODUCTS</li>
         </Link>
 
         <Link to={'/team'}>
-          <li className="p-4 hover:text-deep-orange-400 ">TEAMS</li>
+          <li className="p-4 hover:text-deep-orange-400 ">BUILDERS</li>
         </Link>
 
         <Link to={'/contact'}>
@@ -50,11 +50,11 @@ const Nav = () => {
         </Link>
 
         <Link  to={'/product'}>
-          <li className="p-4 hover:text-deep-orange-400 ">RPODUCTS</li>
+          <li className="p-4 hover:text-deep-orange-400 ">PRODUCTS</li>
         </Link>
 
         <Link to={'/team'}>
-          <li className="p-4 hover:text-deep-orange-400 ">TEAMS</li>
+          <li className="p-4 hover:text-deep-orange-400 ">BUILDERS</li>
         </Link>
 
         <Link to={'/contact'}>
