@@ -26,7 +26,7 @@ const Home = () => {
 
         <span className="sm:block"> Increase Conversion. </span>
       </h1> */}
-            <Typed    className="bg-gradient-to-r pl-3 from-green-300 via-blue-500 to-purple-600 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl" strings={["Here you can find anything","Budget-PCs","Gaming-PCs","Graphics Cards & Monitors ","PC Components & Accessories"]} backSpeed={50} loop={true} typeSpeed={80} />
+            <Typed    className="bg-gradient-to-r pl-3 from-green-300 via-blue-500 to-purple-600 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl" strings={["Here you can find anything","BUDGET-PCs","GAMING-PCs","Graphics Cards & Monitors ","PC Components & Accessories"]} backSpeed={50} loop={true} typeSpeed={80} />
 
             <p className="mx-auto mt-4 max-w-xl sm:text-xl/relaxed">
             Step into a realm where creativity meets craftsmanship, and dreams are assembled pixel by pixel.
