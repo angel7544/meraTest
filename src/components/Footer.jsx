@@ -42,7 +42,7 @@ const Footer = () => {
           </div>
           <hr className="border-gray-600" />
           <p className="w-full text-center my-4 text-gray-600">
-            Copyright © 2023 TechWithMehul
+          ©TechWithMehul 2023 | MadeWithLove
           </p>
         </div>
       </div>
