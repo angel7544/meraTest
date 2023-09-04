@@ -20,6 +20,7 @@
     "react-scripts": "5.0.1",
     "react-typed": "^1.2.0",
     "responsive-carousel-react": "^0.3.1",
+    "styled-components": "^6.0.7",
     "tailwindcss": "^3.3.3",
     "web-vitals": "^2.1.4"
   },

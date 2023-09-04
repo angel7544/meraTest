@@ -1,7 +1,10 @@
 import { Link } from "react-router-dom";
 import { Button } from "@material-tailwind/react";
+
 const Footer = () => {
+  
   return (
+    
     <div className="w-full px-4 flex items-center justify-center " style={{backgroundColor:"#002D62"}}>
       <div className="md:h-3/2 w-full px-2 text-white flex flex-col">
         <div className="w-full mt-5 text-3xl font-bold">

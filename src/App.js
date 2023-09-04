@@ -9,9 +9,13 @@ import Pagenotfount from './components/Pagenotfount'
 import Contact from "./components/Contact";
 import Forgotpass from "./components/Forgotpass";
 import Footer from "./components/Footer";
+import { Fragment } from 'react';
+import ScrollButton from './components/ScrollButton';
+import { Content, Heading } from './components/Styles';
 function App() {
   return (
     <div className="App">
+      <ScrollButton />
       <Router>
         <Nav/>
       <Routes>
