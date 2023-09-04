@@ -14,6 +14,6 @@ bottom: 20px;
 height: 54px;
 font-size: 3rem;
 z-index: 2;
-cursor: uparrow;
-color: Red;
-`
+cursor: pointer; /* Change 'uparrow' to 'pointer' for a cursor icon */
+color: purple;
+`;
